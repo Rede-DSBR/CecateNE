@@ -1,10 +1,7 @@
 # 🚍 Cecate Nordeste: Centro Colaborador de Apoio ao Transporte Escolar da Região Nordeste
 
 ## :mag_right: Sobre o Projeto
-O Cecate Nordeste, coordenado pela UFOB e financiado pelo FNDE, objetiva aprimorar o transporte escolar na Região Nordeste do Brasil, alinhado com as diretrizes legais nacionais. O projeto enfoca em melhorar a eficiência, segurança e qualidade do transporte escolar.
-
-## :dart: Missão
-:busstop: Melhorar o acesso e a qualidade do transporte escolar, em conformidade com as diretrizes legais, capacitando profissionais e desenvolvendo pesquisa aplicada para soluções tecnológicas eficientes.
+O projeto Cecate Nordeste, coordenado pela UFOB e financiado pelo FNDE, tem como objetivo aprimorar a Política Nacional do Transporte Escolar na Região Nordeste do Brasil. A iniciativa reconhece a importância do transporte escolar para o acesso à educação, produz e dissemina conhecimento em apoio à formação de profissionais, na realização de pesquisas de diagnóstico situacional e contribui no desenvolvimento de soluções tecnológicas para monitoramento e gestão de dados.
 
 ## :busts_in_silhouette: Equipe
 - **Poty Rodrigues de Lucena (UFOB)** - :man: Coordenador-Geral
