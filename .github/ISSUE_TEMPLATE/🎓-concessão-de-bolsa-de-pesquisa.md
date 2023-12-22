@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-# 👩‍🔬👨‍🔬 Nome do(a) Pesquisador(a)
+# 👩‍🔬👨‍🔬 Pesquisador(a)
 **[Nome do(a) Pesquisador(a)]**
 **[Função no Projeto]**
 _Cargo ou ocupação_
@@ -69,43 +69,11 @@ Esta seção detalha as bases legais e regulamentações que embasam a concessã
 
 # 📦 Entregas Realizadas pelo(a) Pesquisador(a)
 
-- [ ] 📄 Publicação de Artigo Científico
-- [ ] 📈 Análise Estatística de Dados
-- [ ] 🧪 Resultados de Experimentos Laboratoriais
-- [ ] 🌐 Desenvolvimento de Software ou Protótipo
-- [ ] 📊 Apresentação em Conferências ou Seminários
-- [ ] 📖 Relatório Final de Pesquisa
+[Inserir link do Relatório]
 
-# 💼 Recursos Necessários
-[Listar os recursos necessários para a execução do projeto, incluindo equipamentos, softwares, acesso a bases de dados, etc.]
-
-- [ ] Licença PPU do Power BI
-- [ ] Licença de software de edição de vídeos
-- [ ] Licença de software de Análise de Dados
-- [ ] Passagem e Diária
-- ...
 
 # ℹ️ Observações Adicionais
 [Incluir quaisquer informações adicionais que sejam importantes para a compreensão e execução do projeto.]
-
-# 📚 Documentos da Concessão da Bolsa
-[Inserir documentos relevantes para a concessão da bolsa, como termos de aceitação, contratos, etc.]
-
-1. Ofício de Solicitação ao Órgão Colegiado Acadêmico ou Autoridade Competente - [Inserir URL]
-1. Ato decisório - [Inserir URL]
-1. Contracheque - [Inserir URL]
-1. Declaração de Atendimento ao Teto constitucional - [Inserir URL]
-1. Comprovante Bancário - [Inserir URL]
-1. Comprovante Residência - [Inserir URL]
-1. Declaração Funcional - [Inserir URL]
-1. Diploma Acadêmico - [Inserir URL]
-1. Identidade - [Inserir URL]
-1. Currículo Lattes - [Inserir URL]
-1. Regularidade CPF - [Inserir URL]
-1. Formulário de Solicitação - [Inserir URL]
-1. Declaração de Inexistência de Contraprestação de Serviço e Vantagem Econômica ao Financiador do Projeto - [Inserir URL]
-1. Termo de Concessão de Bolsa - [Inserir URL]
-
 # 🖥️ Patrimônio sob a sua responsabilidade
 
 Esta seção é dedicada ao registro e acompanhamento do patrimônio, como equipamentos e materiais, concedidos ao(à) pesquisador(a) para a realização do projeto. É crucial manter um histórico detalhado de cada item para garantir a responsabilidade e a gestão adequada dos recursos.
