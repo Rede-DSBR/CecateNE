@@ -12,7 +12,10 @@ assignees: ''
 📅 **Data:** [Inserir no formato DD/MM/AAAA]
 🕒 **Horário:** [Inserir no formato 14:00 - 15:00]
 📝 **Pauta:** [Inserir]
-👥 **Participantes:** [Nome 01](mailto:Email 01), [Nome 02](mailto:Email 02)
+👥 **Participantes:** 
+Pelo Cecate Nordeste: [Poty Rodrigues de Lucena](mailto:poty@ufob.edu.br), [Catia Pereira Aires de Alencar](mailto:catia.alencar@ufob.edu.br), [Professor Duda Bastos](mailto:eduardo.bastos@ufob.edu.br), [Kelli Consuelo Almeida de Lima Queiroz](mailto:kelli.consuelo@ufob.edu.br)
+Pelo [Descrever Órgão]:
+[Nome 01](mailto:Email 01), [Nome 02](mailto:Email 02)
 
 ### 📝 Resumo:
 
