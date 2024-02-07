@@ -2,7 +2,7 @@
 name: "\U0001F393 Concessão de Bolsa de Pesquisa"
 about: Modelo de documentação para concessão de Bolsas de Pesquisa
 title: "[\U0001F393 Bolsa de Pesquisa] Nome do Pesquisador(a), Modalidade, Vigência."
-labels: Bolsas de Pesquisa
+labels: ''
 assignees: ''
 
 ---
