@@ -13,7 +13,10 @@ assignees: ''
 🕒 **Horário:** [Inserir no formato 14:00 - 15:00]
 📝 **Pauta:** [Inserir]
 👥 **Participantes:** 
-Pelo Cecate Nordeste: [Poty Rodrigues de Lucena](mailto:poty@ufob.edu.br), [Catia Pereira Aires de Alencar](mailto:catia.alencar@ufob.edu.br), [Professor Duda Bastos](mailto:eduardo.bastos@ufob.edu.br), [Kelli Consuelo Almeida de Lima Queiroz](mailto:kelli.consuelo@ufob.edu.br)
+Pelo Cecate Nordeste: [Poty Rodrigues de Lucena](mailto:poty@ufob.edu.br), [Professor Duda Bastos](mailto:eduardo.bastos@ufob.edu.br), [Kelli Consuelo Almeida de Lima Queiroz](mailto:kelli.consuelo@ufob.edu.br)
+Pelo Cecate UFG: [Willer Carvalho](mailto:willer_carvalho@ufg.br)
+Pelo Cecate UFU: [Renata Carmo de Oliveira - UFU](mailto:carmoliveira@ufu.br), [Deividi Marcio Marques](mailto:Email 02)
+Pelo FNDE: [Rejane Freire Lima Bizinoto](mailto:rejaneflima@gmail.com), [Lívia Moura](mailto:livia.santos@fnde.gov.br), [Samir Oliveira](mailto:samir.oliveira@fnde.gov.br), [Luciano Machado](mailto:luciano.machado@fnde.gov.br)
 Pelo [Descrever Órgão]:
 [Nome 01](mailto:Email 01), [Nome 02](mailto:Email 02)
 
