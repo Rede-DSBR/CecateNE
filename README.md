@@ -12,8 +12,13 @@ O projeto Cecate Nordeste, coordenado pela UFOB e financiado pelo FNDE, tem como
 - **Gabriel Tavares de Melo Freitas (IFCE)**, Pesquisador Cientista de Dados
 - **Lucas Rafiki da Guarda Silva (UFOB)**, Pesquisador Cientista de Dados - Graduação
 - **Tamires dos Santos Barreto (UFOB)**, Pesquisadora Cientista de Dados - Graduação
-- 
 
+# 📢 Canais Oficiais de Comunicação do Cecate Nordeste 🌐
+
+- **Email** 📧: [cecatenordeste@ufob.edu.br](mailto:cecatenordeste@ufob.edu.br)
+- **Site** 💻: [www.cecatenordeste.ufob.edu.br](http://www.cecatenordeste.ufob.edu.br)
+- **Instagram** 📸: [cecatenordeste](https://www.instagram.com/cecatenordeste/)
+ 
 ## :bulb: Objetivos
 - :mortar_board: Apoiar a formação de profissionais especializados no transporte escolar.
 - :link: Estabelecer a Rede Nordeste de Pesquisadores Educacionais do Transporte Escolar.
