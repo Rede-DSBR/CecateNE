@@ -10,6 +10,8 @@ O projeto Cecate Nordeste, coordenado pela UFOB e financiado pelo FNDE, tem como
 - **Cátia Pereira Aires Alencar (UFOB)**, Pesquisadora Educacional
 - **Marcel Antonionni de Andrade Romano (UFOPA)**, Pesquisador Cientista de Dados Pleno
 - **Gabriel Tavares de Melo Freitas (IFCE)**, Pesquisador Cientista de Dados
+- **Jaline Mombach (IFFar)**, Pesquisadora Cientista de Dados
+- **Lean Oliveira Pereira (UFOB)**, Pesquisador Cientista de Dados - Mestrado
 - **Lucas Rafiki da Guarda Silva (UFOB)**, Pesquisador Cientista de Dados - Graduação
 - **Tamires dos Santos Barreto (UFOB)**, Pesquisadora Cientista de Dados - Graduação
 
