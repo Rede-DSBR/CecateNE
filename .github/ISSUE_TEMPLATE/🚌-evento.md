@@ -29,7 +29,7 @@ O evento de formação do Cecate Nordeste ocorrerá em Cidade, Estado, no dia DD
 - [ ] Programação preliminar do evento
 - [ ] Publicar anúncio do evento
 - [ ] Publicar formulário de inscrição e diagnóstico
-- [ ] Planejamento de conteúdos dos eventos CECATE Ne em Aracaju - SE
+- [ ] Planejamento de conteúdos dos eventos CECATE Ne
 - [ ] Publicar página no site com material usado no evento
 - [ ] Elaborar e encaminhar briefing para divulgação nos canais locais e regionais de rádio e TV
 
@@ -54,7 +54,7 @@ O evento de formação do Cecate Nordeste ocorrerá em Cidade, Estado, no dia DD
 - [ ] Realizar testes de apresentação dos Slides e do vídeo no Auditório Principal
 - [ ] Realizar testes de apresentação dos Slides e do vídeo no Auditório Complementar
 - [ ] Preparar slide para apresentação do Cerimonial e Hino Nacional
-- [ ] Definir local para mesa de credenciamento - Definido
+- [ ] Definir local para mesa de credenciamento
 - [ ] Verificar número de assentos e disponibilidade de mesa e 03 cadeiras para credenciamento - Disponível
 - [ ] Verificar número de assentos e disponibilidade de 05 cadeiras na mesa solene - Disponível até 10
 - [ ] Definir local para serviço de alimentação - Definido
@@ -64,7 +64,7 @@ O evento de formação do Cecate Nordeste ocorrerá em Cidade, Estado, no dia DD
 - [ ] Procurar informações sobre estacionamento / orientação aos participantes - 20 vagas externas e 20 vagas internas
 - [ ] Verificar acesso Wifi e informação para a conexão dos participantes - Disponível, será disponibilizado QR Code
 - [ ] Providenciar cobertura audiovisual - Disponível equipe de assessoria, fotógrafo e jornalista
-- [ ] Entrar em contato com a mãe atípica para entender as necessidades específicas
+
 
 ### Secretaria
 
@@ -74,12 +74,13 @@ O evento de formação do Cecate Nordeste ocorrerá em Cidade, Estado, no dia DD
 - [ ]  Encaminhar convite para a equipe FNDE
 - [ ]  Enviar convites para a Secretaria de Educação
 - [ ]  Impressão de lista de inscritos para credenciamento
+- [ ]  Verificar se houve inscrição de participantes com deficinência
 - [ ]  Organizar as pastas
 - [ ]  Imprimir o Display da mesa
 
 ### Desenvolvimento
 
-- [ ] Realizar curadoria dos dados para o polo Recife
+- [ ] Realizar curadoria dos dados para o polo
 - [ ] Publicar formulário de avaliação do evento
 - [ ] Atualização do design do material de formação
 - [ ] Realizar atualização de dados no Painel de Formação
@@ -97,7 +98,7 @@ O evento de formação do Cecate Nordeste ocorrerá em Cidade, Estado, no dia DD
 - [ ] Comprar resma de papel A4
 - [ ] Display para fotos
 - [ ] Aquisição de Banners
-- [ ]  Organizar mesa de credenciamento
+- [ ] Organizar mesa de credenciamento
 
 ## 🤳🏼 Fotos e Vídeos do Evento
 
