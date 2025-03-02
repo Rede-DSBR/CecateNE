@@ -7,99 +7,92 @@ assignees: ''
 
 ---
 
-## 📋 Descrição do Evento
+## 📋 Dados Gerais do Evento
+**Local:** Cidade, Estado
+**Data:** dd/mm/aaaa, dia
+**Lista dos Municípios Prioritários:** XX municípios.
 
-O evento de formação do Cecate Nordeste ocorrerá em Cidade, Estado, no dia DD de MMMM de AAAA, marcando o lançamento do primeiro Polo Territorial de Transporte Escolar em Estado e que impactará XX municípios. Destinado a responsáveis e conselheiros do CACS dos Municípios da Região Intermediária, o encontro promoverá formação intensiva, discussões estratégicas e troca de práticas com o FNDE para aprimorar a gestão e reforçar políticas do transporte escolar.
-
-## 🔄 Ações Necessárias
-
-### Alinhamentos
-
+### Ações Prioritárias
+- [ ] Consultar sobre disponibilidade, capacidade e acesso ao auditório principal com 200 lugares no mínimo
+- [ ] Consultar sobre disponibilidade, capacidade e acesso ao auditório complementar com 60 lugares no mínimo
+- [ ] Reservar local do evento
+- [ ] Solicitar apoio e recursos audiovisuais
 - [ ] Dar conhecimento das chefias imediatas dos participantes da equipe na formação
-- [ ] Conversar com Secretaria de Educação do Estado e encaminhar e-mail de entendimentos
-- [ ] Conversar com Detran e encaminhar e-mail de entendimentos
-- [ ] Conversar com Tribunal de Contas do Estado e encaminhar e-mail de entendimentos
-- [ ] Conversar com o Ministério Público Estadual e encaminhar e-mail de entendimentos
-- [ ] Conversar com o presidente da Associação municipalista e encaminhar e-mail de entendimentos
-- [ ] Conversar com o presidente da Uncme e encaminhar e-mail de entendimentos
-- [ ] Conversar com o presidente da Undime e encaminhar e-mail de entendimentos
+- [ ] Conversar com Secretaria de Educação do Estado, realizar entendimentos sobre a data e local de realização e da representação no dispositivo.
+- [ ] Conversar com o/a presidente da Uncme, realizar entendimentos sobre a data e local de realização e da representação no dispositivo.
+- [ ] Conversar com o/a presidente da Undime, realizar entendimentos sobre a data e local de realização e da representação no dispositivo.
+- [ ] Verificar inscrição e entrar em contato com participantes que informaram sobre alguma deficiência
+
+### Contratos
+- [ ] Serviço de Alimentação
+- [ ] Contratar Serviço de Cerimonialista
 
 ### Programação e Divulgação
-
 - [ ] Programação preliminar do evento
 - [ ] Publicar anúncio do evento
 - [ ] Publicar formulário de inscrição e diagnóstico
-- [ ] Planejamento de conteúdos dos eventos CECATE Ne
-- [ ] Publicar página no site com material usado no evento
+- [ ] Revisar conteúdos e apresentações do evento
+- [ ] Publicar página de acesso aos materiais
 - [ ] Elaborar e encaminhar briefing para divulgação nos canais locais e regionais de rádio e TV
 
 ### Logística
 - [ ] Solicitar Passagens
 - [ ] Solicitar Diárias
 - [ ] Reservar Hotel
-- [ ] Solicitar informações de transporte e hospedagem dos participantes do FNDE e Equipe Cecate NE
 
 ### Local do Evento
-- [ ] Reservar local do evento
+#### Recursos Audiovisuais e Conectividade
+- [ ] Conversar com o responsável pelo apoio audiovisual e gravar o contato do Whatsapp
+- [ ] Realizar testes de som e vídeo das apresentação dos slides no auditório principal
+- [ ] Realizar testes de som e vídeo das apresentação dos slides no auditório complementar
+- [ ] Verificar disponibilidade de 02 microfones sem fio no auditório principal
+- [ ] Verificar necessidade de microfone no auditório complementar
+- [ ] Testar o slide apresentação do Cerimonial e Hino Nacional
+- [ ] Verificar acesso Wifi e informação para a conexão dos participantes
+- [ ] Cobertura audiovisual
+- [ ] Atualização do design do material de formação
+
+#### Infraestrutura do Local do evento
+- [ ] Verificar disponibilidade de mesa e 03 cadeiras para credenciamento
+- [ ] Verificar número de assentos e disponibilidade de 05 cadeiras no palco de abertura
+- [ ] Consultar sobre disponibilidade, quantidade e acesso aos banheiros
+- [ ] Verificar disponibilidade de púlpito no auditório principal
+- [ ] Verificar disponibilidade de tomadas para carregar o celular
+- [ ] Definir local para serviço para o serviço do café da manhã
+- [ ] Disponibilizar água para os participantes
+- [ ] Informar ao fornecedor sobre o local para serviço de alimentação
+- [ ] Verificar disponibilidade de estacionamento
+- [ ] Dar orientação de como chegar, estacionar e ingressar no local do evento
+
+#### Informações sobre o local do evento
 - [ ] Atualizar lista com sugestões para almoço no google maps
 - [ ] Lista com sugestões para hospedagem no google maps
-- [ ] Solicitar apoio e recursos tecnológicos
-- [ ] Conversar com o responsável pelo apoio audiovisual e gravar o contato do Whatsapp
-- [ ] Consultar sobre disponibilidade e acesso aos banheiros - 1 com 2M e 1 com 2F
-- [ ] Consultar sobre disponibilidade, capacidade e acesso ao auditório principal - 250 pessoas
-- [ ] Consultar sobre disponibilidade de 02 microfones sem fio no auditório principal - Disponível
-- [ ] Consultar sobre disponibilidade de 02 microfones sem fio no auditório complementar - Disponível
-- [ ] Consultar sobre disponibilidade, capacidade e acesso ao auditório complementar - 50 pessoas
-- [ ] Água para a mesa - Disponível
-- [ ] Realizar testes de apresentação dos Slides e do vídeo no Auditório Principal
-- [ ] Realizar testes de apresentação dos Slides e do vídeo no Auditório Complementar
-- [ ] Preparar slide para apresentação do Cerimonial e Hino Nacional
-- [ ] Definir local para mesa de credenciamento
-- [ ] Verificar número de assentos e disponibilidade de mesa e 03 cadeiras para credenciamento - Disponível
-- [ ] Verificar número de assentos e disponibilidade de 05 cadeiras na mesa solene - Disponível até 10
-- [ ] Definir local para serviço de alimentação - Definido
-- [ ] Informar ao fornecedor sobre o local para serviço de alimentação
-- [ ] Consultar sobre disponibilidade de Púlpito no auditório principal - Disponível
-- [ ] Consultar sobre tomadas para carregar o celular - Verificando disponibilidade
-- [ ] Procurar informações sobre estacionamento / orientação aos participantes - 20 vagas externas e 20 vagas internas
-- [ ] Verificar acesso Wifi e informação para a conexão dos participantes - Disponível, será disponibilizado QR Code
-- [ ] Providenciar cobertura audiovisual - Disponível equipe de assessoria, fotógrafo e jornalista
-
 
 ### Secretaria
-
-- [ ]  Solicitar cobertura de ASCOM - Disponível equipe de assessoria, fotógrafo e jornalista
-- [ ]  Solicitar Cerimonialista - Não disponível
-- [ ]  Elaborar Roteiro do Cerimonial
-- [ ]  Encaminhar convite para a equipe FNDE
-- [ ]  Enviar convites para a Secretaria de Educação
-- [ ]  Impressão de lista de inscritos para credenciamento
-- [ ]  Verificar se houve inscrição de participantes com deficinência
+- [ ] Roteiro do Cerimonial
+- [ ] Convite da solenidade de abertura para o FNDE
+- [ ] Convite da solenidade de abertura para a Secretaria Estadual de Educação
+- [ ] Convite da solenidade de abertura para a Undime
+- [ ] Convite da solenidade de abertura para o Uncme
 - [ ]  Organizar as pastas
-- [ ]  Imprimir o Display da mesa
 
 ### Desenvolvimento
-
-- [ ] Realizar curadoria dos dados para o polo
 - [ ] Publicar formulário de avaliação do evento
-- [ ] Atualização do design do material de formação
 - [ ] Realizar atualização de dados no Painel de Formação
 - [ ] Encaminhar Certificados
 - [ ] Encaminhar Comprovação de Inscrição
 
-### Contratos
-- [ ] Estruturar equipe local de apoio
-- [ ] Contratar Serviço de Alimentação
-- [ ] Contratar Mestre de Cerimônias
-
 ### Materiais de Apoio
-
-- [ ] Comprar caixa com 200 canetas da cor azul
-- [ ] Comprar resma de papel A4
-- [ ] Display para fotos
-- [ ] Aquisição de Banners
-- [ ] Organizar mesa de credenciamento
+- [ ] Lista de inscritos para credenciamento
+- [ ] Cartazes para fila de credenciamento
+- [ ] 200 canetas da cor azul
+- [ ] 200 Pastas
+- [ ] 01 Rolo de fita adesiva
+- [ ] 01 resma de papel A4
+- [ ] 01 display para fotos
+- [ ] 05 Certificados de parceria
+- [ ] 01 Banner
 
 ## 🤳🏼 Fotos e Vídeos do Evento
 
-📸 Fotos e Vídeos do Encontro de Formação Conselheiros do CACS Fundeb e Gestores do Transporte Escolar em Aracaju, SE, 10 de agosto de 2024 disponíveis no link CRIAR ALBUM DE FOTOS
+📸 Fotos e Vídeos do Encontro de Formação do Transporte Escolar disponíveis no link CRIAR ALBUM DE FOTOS
