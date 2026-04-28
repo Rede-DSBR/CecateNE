@@ -2,7 +2,7 @@
 name: "⚠️ Manutenção de Erros"
 about: Abra uma demanda para manutenção corretiva.
 title: "[⚠️ Erro]"
-labels: "⚠️Erro"
+labels: ''
 assignees: ''
 
 ---
