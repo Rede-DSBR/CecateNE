@@ -31,7 +31,7 @@ Dia inteiro, **das 07:30 às 16:00**, sem almoço servido no local. Uso dos espa
 | Espaço | Descrição |
 |---|---|
 | 01 Auditório para atividades formativas das 07:00 – 16:30 | Capacidade para «público» pessoas, recursos audiovisuais, sistema de som, tela de projeção, púlpito, acesso à internet, mesa com 05 a 08 cadeiras para a solenidade de abertura. |
-| 01 Sala ou Miniauditório para atividades formativas das 07:00 – 16:30 | Capacidade para 50 pessoas (atividades dos conselheiros dos CACS-Fundeb), recursos audiovisuais, sistema de som, tela de projeção, acesso à internet. |
+| 01 Sala ou Miniauditório para atividades formativas das 07:00 – 16:30 | Capacidade para 50 (Maceió: 70 a 100) pessoas (atividades dos conselheiros dos CACS-Fundeb), recursos audiovisuais, sistema de som, tela de projeção, acesso à internet. |
 | 01 Espaço para desjejum e lanche das 07:00 – 16:30 | Espaço externo ao auditório para montagem do café da manhã (07:30) e do lanche (10:15), com mesas para montagem (se disponíveis), próximo ao local do evento. |
 | 01 Espaço para Mesa de Credenciamento das 07:00 – 16:30 | Espaço de atendimento próximo ao local do evento com mesa e 03 cadeiras para a secretaria do encontro (credenciamento eletrônico, no sistema do Cecate Nordeste). |
 
@@ -40,7 +40,7 @@ Dia inteiro, **das 07:30 às 16:00**, sem almoço servido no local. Uso dos espa
 | Critério | Mínimo |
 |---|---|
 | Auditório | Lugares para o público estimado, som, 2 microfones sem fio, projetor e tela, púlpito, mesa de abertura (5 a 8 cadeiras), Wi-Fi |
-| Sala complementar | 50 lugares, projeção e som (CACS-Fundeb, 09:05–12:00 e 13:30–15:30) |
+| Sala complementar | 50 lugares (Maceió: 70 a 100), projeção e som (CACS-Fundeb, 09:05–12:00 e 13:30–15:30) |
 | Alimentação | Espaço fora do auditório para café da manhã (07:30) e lanche com foto oficial (10:15) |
 | Credenciamento | Mesa com 3 cadeiras e ponto de internet/tomada (credenciamento no sistema, sem listas impressas) |
 | Horário | Uso das 07:00 às 16:30 (programação das 07:30 às 16:00) |
