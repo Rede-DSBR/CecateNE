@@ -72,7 +72,7 @@ Viagem: **Encontro de Formação do Transporte Escolar em Pinheiro (MA)**
 | 26/11/2026 08:30 – Cujupe (MA) → Pinheiro (MA) – Carro com motorista contratado (Carro 1), tempo estimado de 1h21, chegada prevista às 10:00. Tarde: checagem da estrutura na UFMA/CCPi. Hospedagem em Pinheiro (pernoite de 26/11). | Reservar hotel | Contratar carro com motorista | Nenhuma |
 | 27/11/2026 07:30 – Pinheiro (MA) – Encontro de Formação do Transporte Escolar na UFMA – Campus de Pinheiro (CCPi), 07:30–13:30, com almoço servido às 13:00. | Nenhuma | Nenhuma | Chegar ao CCPi às 07:00 |
 | 27/11/2026 13:30 – Pinheiro (MA) → Cujupe (MA) – Carro 1 com motorista, tempo estimado de 1h21, chegada prevista às 14:55. | Nenhuma | Contratar carro com motorista | Saída rígida às 13:30 |
-| 27/11/2026 15:30 – Cujupe (MA) → São Luís (Ponta da Espera) – Ferryboat como passageiro, chegada prevista às 17:00. Alternativa: ferry das 16:30. Táxi/aplicativo até o aeroporto. | Nenhuma | Comprar passagem do ferry | Programar descanso antes do embarque |
+| 27/11/2026 15:30 – Cujupe (MA) → São Luís (Ponta da Espera) – Ferryboat como passageiro, chegada prevista às 17:00. Alternativa: ferry das 16:30. Táxi/aplicativo até o hotel em São Luís (entrada às 17:30; saída às 00:30 de 28/11 para o aeroporto). | Reservar hotel | Comprar passagem do ferry | Chegar ao aeroporto até 28/11/2026 00:50 |
 | 28/11/2026 02:50 – São Luís (SLZ) → Belo Horizonte/Confins (CNF) – Voo com chegada prevista às 05:00. Day-use de cerca de 4h no Hotel Ruby, no aeroporto de Confins. | Reservar day-use no Hotel Ruby | Emitir passagem | Chegar ao aeroporto até 28/11/2026 00:50 |
 | 28/11/2026 (manhã) – Belo Horizonte/Confins (CNF) → Barreiras (BRA) – Voo Azul, sem bagagem adicional. Encerramento do deslocamento. | Nenhuma | Emitir passagem | Fazer conexão com atenção ao horário |
 
@@ -85,7 +85,7 @@ Viagem: **Encontro de Formação do Transporte Escolar em Pinheiro (MA)**
 | 26/11/2026 08:30 – Cujupe (MA) → Pinheiro (MA) – Carro com motorista contratado (Carro 1), tempo estimado de 1h21, chegada prevista às 10:00. Tarde: checagem da estrutura na UFMA/CCPi. Hospedagem em Pinheiro (pernoite de 26/11). | Reservar hotel | Contratar carro com motorista | Nenhuma |
 | 27/11/2026 07:30 – Pinheiro (MA) – Encontro de Formação do Transporte Escolar na UFMA – Campus de Pinheiro (CCPi), 07:30–13:30, com almoço servido às 13:00. | Nenhuma | Nenhuma | Chegar ao CCPi às 07:00 |
 | 27/11/2026 13:30 – Pinheiro (MA) → Cujupe (MA) – Carro 1 com motorista, tempo estimado de 1h21, chegada prevista às 14:55. | Nenhuma | Contratar carro com motorista | Saída rígida às 13:30 |
-| 27/11/2026 15:30 – Cujupe (MA) → São Luís (Ponta da Espera) – Ferryboat como passageiro, chegada prevista às 17:00. Alternativa: ferry das 16:30. Táxi/aplicativo até o aeroporto. | Nenhuma | Comprar passagem do ferry | Programar descanso antes do embarque |
+| 27/11/2026 15:30 – Cujupe (MA) → São Luís (Ponta da Espera) – Ferryboat como passageiro, chegada prevista às 17:00. Alternativa: ferry das 16:30. Táxi/aplicativo até o hotel em São Luís (entrada às 17:30; saída às 00:30 de 28/11 para o aeroporto). | Reservar hotel | Comprar passagem do ferry | Chegar ao aeroporto até 28/11/2026 00:50 |
 | 28/11/2026 (madrugada) – São Luís (SLZ) → Brasília (BSB) – Voo de retorno (horário e conexão a confirmar). Encerramento do deslocamento. | Nenhuma | Emitir passagem | Chegar ao aeroporto com 2h de antecedência |
 
 ### Antonio Armando Andrade Pinheiro
@@ -97,7 +97,7 @@ Viagem: **Encontro de Formação do Transporte Escolar em Pinheiro (MA)**
 | 26/11/2026 08:30 – Cujupe (MA) → Pinheiro (MA) – Carro com motorista contratado (Carro 1), tempo estimado de 1h21, chegada prevista às 10:00. Tarde: checagem da estrutura na UFMA/CCPi. Hospedagem em Pinheiro (pernoite de 26/11). | Reservar hotel | Contratar carro com motorista | Nenhuma |
 | 27/11/2026 07:30 – Pinheiro (MA) – Encontro de Formação do Transporte Escolar na UFMA – Campus de Pinheiro (CCPi), 07:30–13:30, com almoço servido às 13:00. | Nenhuma | Nenhuma | Chegar ao CCPi às 07:00 |
 | 27/11/2026 13:30 – Pinheiro (MA) → Cujupe (MA) – Carro 1 com motorista, tempo estimado de 1h21, chegada prevista às 14:55. | Nenhuma | Contratar carro com motorista | Saída rígida às 13:30 |
-| 27/11/2026 15:30 – Cujupe (MA) → São Luís (Ponta da Espera) – Ferryboat como passageiro, chegada prevista às 17:00. Alternativa: ferry das 16:30. Táxi/aplicativo até o aeroporto. | Nenhuma | Comprar passagem do ferry | Programar descanso antes do embarque |
+| 27/11/2026 15:30 – Cujupe (MA) → São Luís (Ponta da Espera) – Ferryboat como passageiro, chegada prevista às 17:00. Alternativa: ferry das 16:30. Táxi/aplicativo até o hotel em São Luís (entrada às 17:30; saída às 00:30 de 28/11 para o aeroporto). | Reservar hotel | Comprar passagem do ferry | Chegar ao aeroporto até 28/11/2026 00:50 |
 | 28/11/2026 (madrugada) – São Luís (SLZ) → Brasília (BSB) – Voo de retorno (horário e conexão a confirmar). Encerramento do deslocamento. | Nenhuma | Emitir passagem | Chegar ao aeroporto com 2h de antecedência |
 
 ### Luís Presley Serejo dos Santos
@@ -227,11 +227,14 @@ A programação do encontro termina às 13:30. A equipe do voo sai do CCPi às 1
 
 ## 13. Hospedagem
 
-- Brasília: 23 e 24/11 (Poty)
-- São Luís: 25/11, perto do Terminal Ponta da Espera (Poty, Samir, Armando e Alison)
-- Pinheiro: 26/11 (equipe de 6 pessoas)
-- São Luís: 27/11 (Alison)
-- Confins: day-use de cerca de 4 h no **Hotel Ruby** (aeroporto), 28/11 a partir das 05:00 (Poty)
+| Local | Quem | Entrada | Saída | Observação |
+|---|---|---|---|---|
+| Brasília (DF) | Poty | 23/11/2026 às 23:00 | 25/11/2026 às 08:00 | Entrada após o voo Confins → Brasília (horário a ajustar ao bilhete). Saída antes do segundo dia da Semana Dados BR, com a bagagem guardada até o voo das 21:10. |
+| São Luís (MA), perto do Terminal Ponta da Espera | Poty, Samir, Antonio Armando e Alison | 25/11/2026 às 23:59 | 26/11/2026 às 05:45 | Entrada após o voo das 21:10 (chegada por volta de 23:30). Alison entra mais cedo, ao chegar de ônibus (horário a confirmar). Saída para o ferry das 07:00. |
+| Pinheiro (MA) | Equipe completa (6 pessoas) | 26/11/2026 às 10:00 | 27/11/2026 às 07:00 | Pedir entrada antecipada, porque a chegada do Cujupe é por volta de 10:00. Saída antes do encontro, com a bagagem nos carros. |
+| São Luís (MA), retorno, antes do voo | Poty, Samir e Antonio Armando | 27/11/2026 às 17:30 | 28/11/2026 às 00:30 | Entrada após o ferry das 15:30 (chegada por volta de 17:00). Descanso até a saída para o aeroporto: voo das 02:50, check-in até 00:50. |
+| São Luís (MA) | Alison | 27/11/2026 às 18:30 | 28/11/2026 (horário do ônibus, a confirmar) | Entrada após o ferry das 16:30. Saída para o ônibus de volta a Água Doce do Maranhão. |
+| Confins (MG) – Hotel Ruby, no aeroporto | Poty | 28/11/2026 às 05:30 | 28/11/2026 às 09:30 | Day-use de cerca de 4h após o voo de São Luís (chegada por volta de 05:00), até a conexão para Barreiras. |
 
 ## 14. Riscos e contingências
 
