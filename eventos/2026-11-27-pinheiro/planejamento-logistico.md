@@ -107,7 +107,7 @@ Viagem: **Encontro de Formação do Transporte Escolar em Pinheiro (MA)**
 | 26/11/2026 07:00 – São Luís (Ponta da Espera) → Cujupe (Alcântara/MA) – Ferryboat Internacional Marítima, como passageiro (sem veículo), travessia de 1h a 1h30, R$ 10,00. Alternativa: ferry das 08:00. | Nenhuma | Comprar passagem do ferry | Chegar ao Terminal Ponta da Espera até 06:00 |
 | 26/11/2026 08:30 – Cujupe (MA) → Pinheiro (MA) – Carro com motorista contratado (Carro 2), tempo estimado de 1h21, chegada prevista às 10:00. Tarde: checagem da estrutura na UFMA/CCPi. Hospedagem em Pinheiro (pernoite de 26/11). | Reservar hotel | Contratar carro com motorista | Nenhuma |
 | 27/11/2026 07:30 – Pinheiro (MA) – Encontro de Formação do Transporte Escolar na UFMA – Campus de Pinheiro (CCPi), 07:30–13:30, com almoço servido às 13:00. | Nenhuma | Nenhuma | Chegar ao CCPi às 07:00 |
-| 27/11/2026 14:15 – Pinheiro (MA) → Cujupe (MA) – Carro 2 com motorista, após o fechamento com a UFMA (materiais e listas), chegada prevista até 16:00. | Nenhuma | Contratar carro com motorista | Chegar ao Terminal do Cujupe até 16:00 |
+| 27/11/2026 14:15 – Pinheiro (MA) → Cujupe (MA) – Carro 2 com motorista, após o fechamento com a UFMA (materiais), chegada prevista até 16:00. | Nenhuma | Contratar carro com motorista | Chegar ao Terminal do Cujupe até 16:00 |
 | 27/11/2026 16:30 – Cujupe (MA) → São Luís (Ponta da Espera) – Ferryboat como passageiro, chegada prevista às 18:00. Encerramento do deslocamento. | Nenhuma | Comprar passagem do ferry | Nenhuma |
 
 ### Alison da Silva Dias
@@ -118,7 +118,7 @@ Viagem: **Encontro de Formação do Transporte Escolar em Pinheiro (MA)**
 | 26/11/2026 07:00 – São Luís (Ponta da Espera) → Cujupe (Alcântara/MA) – Ferryboat Internacional Marítima, como passageiro (sem veículo), travessia de 1h a 1h30, R$ 10,00. Alternativa: ferry das 08:00. | Nenhuma | Comprar passagem do ferry | Chegar ao Terminal Ponta da Espera até 06:00 |
 | 26/11/2026 08:30 – Cujupe (MA) → Pinheiro (MA) – Carro com motorista contratado (Carro 2), tempo estimado de 1h21, chegada prevista às 10:00. Tarde: checagem da estrutura na UFMA/CCPi. Hospedagem em Pinheiro (pernoite de 26/11). | Reservar hotel | Contratar carro com motorista | Nenhuma |
 | 27/11/2026 07:30 – Pinheiro (MA) – Encontro de Formação do Transporte Escolar na UFMA – Campus de Pinheiro (CCPi), 07:30–13:30, com almoço servido às 13:00. | Nenhuma | Nenhuma | Chegar ao CCPi às 07:00 |
-| 27/11/2026 14:15 – Pinheiro (MA) → Cujupe (MA) – Carro 2 com motorista, após o fechamento com a UFMA (materiais e listas), chegada prevista até 16:00. | Nenhuma | Contratar carro com motorista | Chegar ao Terminal do Cujupe até 16:00 |
+| 27/11/2026 14:15 – Pinheiro (MA) → Cujupe (MA) – Carro 2 com motorista, após o fechamento com a UFMA (materiais), chegada prevista até 16:00. | Nenhuma | Contratar carro com motorista | Chegar ao Terminal do Cujupe até 16:00 |
 | 27/11/2026 16:30 – Cujupe (MA) → São Luís (Ponta da Espera) – Ferryboat como passageiro, chegada prevista às 18:00. Hospedagem em São Luís (pernoite de 27/11). | Reservar hotel | Comprar passagem do ferry | Nenhuma |
 | 28/11/2026 (horário a definir) – São Luís (MA) → Água Doce do Maranhão (MA) – Ônibus. Encerramento do deslocamento. | Comprar passagem rodoviária | Nenhuma | Confirmar horário do ônibus |
 
@@ -255,7 +255,7 @@ A programação do encontro termina às 13:30. A equipe do voo sai do CCPi às 1
 - [ ] 13/11: comunicar a nova data aos 72 municípios e convidar as autoridades
 - [ ] 20/11: comprar os bilhetes do ferry e reservar os hotéis, incluindo o day-use no Hotel Ruby
 - [ ] 20/11: definir a programação própria dos CACS-Fundeb e fechar o roteiro do cerimonial
-- [ ] 24/11: fechar as inscrições, imprimir as listas e informar o número final ao fornecedor de alimentação
+- [ ] 24/11: fechar as inscrições no sistema e informar o número final ao fornecedor de alimentação (presença e credenciamento no sistema, sem listas impressas)
 - [ ] Após o evento: certificados, avaliação e prestação de contas (cartões de embarque, bilhetes do ferry e recibos)
 
 ## 16. Arquivos de referência (Google Drive do projeto)
