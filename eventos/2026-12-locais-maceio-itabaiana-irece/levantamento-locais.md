@@ -14,7 +14,7 @@ Esta etapa trata do **levantamento e dos pedidos de reserva dos locais**. Os loc
 
 ## 2. Formato dos encontros
 
-Dia inteiro, **das 07:30 às 16:00**, sem almoço servido no local. Uso dos espaços das 07:00 às 16:30. Inscrição, presença e credenciamento ocorrem no sistema (cecate.dsbr.org), sem listas impressas.
+Dia inteiro, **das 07:30 às 16:00**. Para o almoço (12:00–13:30), os ofícios consultam a disponibilidade de restaurantes próximos ou a possibilidade de a refeição ser contratada para serviço no local. Uso dos espaços das 07:00 às 16:30. Inscrição, presença e credenciamento ocorrem no sistema (cecate.dsbr.org), sem listas impressas.
 
 | Horário | Atividade | Espaço |
 |---|---|---|
@@ -22,7 +22,7 @@ Dia inteiro, **das 07:30 às 16:00**, sem almoço servido no local. Uso dos espa
 | 08:00 - 08:25 | Solenidade de Abertura | Auditório principal |
 | 08:25 - 09:05 | Apresentação do Cecate Nordeste: os direitos à educação escolar, os programas do transporte escolar e a gestão dessas políticas no âmbito dos entes federados | Auditório principal |
 | 09:05 - 12:00 | Atividades específicas dos gestores do transporte escolar (auditório) e dos conselheiros dos CACS-Fundeb (sala), com lanche e foto oficial às 10:15 | Auditório principal e sala complementar |
-| 12:00 - 13:30 | Horário de Almoço | Não será servido almoço no local |
+| 12:00 - 13:30 | Horário de Almoço | Restaurantes próximos ou refeição contratada para serviço no local (em consulta) |
 | 13:30 - 15:30 | Sistema Eletrônico de Gestão do Transporte Escolar (SETE) e atividades específicas dos CACS-Fundeb | Auditório principal e sala complementar |
 | 15:30 - 16:00 | Avaliação e encerramento | Auditório principal |
 
@@ -32,7 +32,7 @@ Dia inteiro, **das 07:30 às 16:00**, sem almoço servido no local. Uso dos espa
 |---|---|
 | 01 Auditório para atividades formativas das 07:00 – 16:30 | Capacidade para «público» pessoas, recursos audiovisuais, sistema de som, tela de projeção, púlpito, acesso à internet, mesa com 05 a 08 cadeiras para a solenidade de abertura. |
 | 01 Sala ou Miniauditório para atividades formativas das 07:00 – 16:30 | Capacidade para 50 (Maceió: 70 a 100) pessoas (atividades dos conselheiros dos CACS-Fundeb), recursos audiovisuais, sistema de som, tela de projeção, acesso à internet. |
-| 01 Espaço para desjejum e lanche das 07:00 – 16:30 | Espaço externo ao auditório para montagem do café da manhã (07:30) e do lanche (10:15), com mesas para montagem (se disponíveis), próximo ao local do evento. |
+| 01 Espaço para alimentação das 07:00 – 16:30 | Espaço externo ao auditório para montagem do café da manhã (07:30), do lanche (10:15) e, se viável, do almoço (12:00 às 13:30), com mesas para montagem (se disponíveis), próximo ao local do evento. |
 | 01 Espaço para Mesa de Credenciamento das 07:00 – 16:30 | Espaço de atendimento próximo ao local do evento com mesa e 03 cadeiras para a secretaria do encontro (credenciamento eletrônico, no sistema do Cecate Nordeste). |
 
 ## 4. Critérios para a escolha
@@ -41,7 +41,7 @@ Dia inteiro, **das 07:30 às 16:00**, sem almoço servido no local. Uso dos espa
 |---|---|
 | Auditório | Lugares para o público estimado, som, 2 microfones sem fio, projetor e tela, púlpito, mesa de abertura (5 a 8 cadeiras), Wi-Fi |
 | Sala complementar | 50 lugares (Maceió: 70 a 100), projeção e som (CACS-Fundeb, 09:05–12:00 e 13:30–15:30) |
-| Alimentação | Espaço fora do auditório para café da manhã (07:30) e lanche com foto oficial (10:15) |
+| Alimentação | Espaço fora do auditório para café da manhã (07:30) e lanche com foto oficial (10:15); almoço (12:00–13:30) em restaurantes próximos ou refeição contratada para serviço no local (consultado nos ofícios) |
 | Credenciamento | Mesa com 3 cadeiras e ponto de internet/tomada (credenciamento no sistema, sem listas impressas) |
 | Horário | Uso das 07:00 às 16:30 (programação das 07:30 às 16:00) |
 | Acesso | Acessibilidade (rampa/elevador, banheiro acessível), estacionamento ou acesso por transporte público, restaurantes próximos para o almoço livre |
@@ -67,7 +67,7 @@ Auditório Maria Thetis Nunes (500 lugares; mínimo de 80) – UFS, Campus Prof.
 
 - [x] Itabaiana: formulário e ofício enviados à UFS (30/10)
 - [x] Ofícios gerados para Sebrae/AL, Sinteal, UFAL (plano B) e CETI Dária Dourado Lopes (31/10)
-- [ ] Enviar os pedidos de Maceió (Sebrae/AL, Sinteal) e Irecê – até 06/11
+- [ ] Enviar os pedidos de Maceió (Sebrae/AL, Sinteal) e Irecê – até 06/11 (com consulta sobre almoço: restaurantes próximos ou refeição no local)
 - [ ] Enviar à COADI o ajuste de público (200) e horário (até 16:00) – Itabaiana
 - [ ] Receber as respostas – até 13/11 (Itabaiana: até 06/11)
 - [ ] Acionar a UFAL se Maceió não tiver local até 10/11
