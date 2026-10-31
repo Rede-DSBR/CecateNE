@@ -51,7 +51,7 @@ Dia inteiro, **das 07:30 às 16:00**. Para o almoço (12:00–13:30), os ofício
 
 1. **Auditório do Sebrae/AL** (1ª opção): ofício à Diretoria Superintendente pronto; contato atendimento@al.sebrae.com.br, 0800 570 0800 (telefone e WhatsApp).
 2. **Sinteal** (conversa iniciada): ofício atualizado; contato secretaria@sinteal.org.br e sinteal@sinteal.org.br, (82) 3221-0893.
-3. **IFAL Campus Maceió** – Auditório Oscar Sátyro: renovação do pedido de 2024 (o Campus sediou o encontro de 28 e 29/05/2024); ofício pronto e rascunho de resposta na conversa com gabinete.maceio@ifal.edu.br.
+3. **IFAL Campus Maceió** – Auditório Oscar Sátyro: renovação do pedido de 2024 (o Campus sediou o encontro de 28 e 29/05/2024); ofício novo e rascunho de nova mensagem para gabinete.maceio@ifal.edu.br.
 
 Alternativas registradas em 2024: Cenfor/Seduc-AL e Centro de Inovação do Jaraguá.
 
