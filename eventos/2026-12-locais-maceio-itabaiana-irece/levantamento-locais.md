@@ -8,7 +8,7 @@ Esta etapa trata do **levantamento e dos pedidos de reserva dos locais**. Os loc
 
 | Encontro | Data | Público | Local pretendido | Plano B | Contato institucional | Pedido | Resposta até | Situação |
 |---|---|---|---|---|---|---|---|---|
-| Maceió, AL (#602) | 01/12/2026 (ter) | 250 | Auditório do Sebrae/AL; Sinteal | UFAL (Reitoria/Proex) | A confirmar (Sebrae/AL e Sinteal) | Ofícios prontos; envio até 06/11 | 13/11 | Em negociação |
+| Maceió, AL (#602) | 01/12/2026 (ter) | 250 | Auditório do Sebrae/AL; Sinteal | UFAL (Reitoria/Proex) | atendimento@al.sebrae.com.br (Sebrae/AL); secretaria@sinteal.org.br e sinteal@sinteal.org.br (Sinteal) | Ofícios prontos; envio até 06/11 | 13/11 | Em negociação |
 | Itabaiana, SE (#603) | 03/12/2026 (qui) | 200 | Auditório Maria Thetis Nunes – UFS, Campus Prof. Alberto Carvalho | — | eventosita@academico.ufs.br (COADI/DIOPI) | Formulário + ofício enviados em 30/10; ajuste de público em 31/10 | 06/11 | Aguardando confirmação |
 | Irecê, BA (#604) | 04/12/2026 (sex) | 150 | Teatro Ataídes Ribeiro – CETI Profª Dária Dourado Lopes | A definir | escola.1126611@enova.educacao.ba.gov.br (Vice-Diretora Viviane da Gama Silva) | Ofício enviado em 31/10 (complemento sobre almoço em rascunho) | 13/11 | Aguardando resposta |
 
@@ -49,8 +49,8 @@ Dia inteiro, **das 07:30 às 16:00**. Para o almoço (12:00–13:30), os ofício
 
 ## 5. Maceió, AL – 01/12/2026
 
-1. **Auditório do Sebrae/AL** (1ª opção): ofício à Diretoria Superintendente pronto; confirmar o canal de cessão de espaços.
-2. **Sinteal** (conversa iniciada): ofício atualizado com a programação até 16:00.
+1. **Auditório do Sebrae/AL** (1ª opção): ofício à Diretoria Superintendente pronto; contato atendimento@al.sebrae.com.br, 0800 570 0800 (telefone e WhatsApp).
+2. **Sinteal** (conversa iniciada): ofício atualizado; contato secretaria@sinteal.org.br e sinteal@sinteal.org.br, (82) 3221-0893.
 3. **UFAL** – Reitoria/Proex, Campus A. C. Simões (**plano B**): ofício pronto, a enviar se as duas primeiras opções não se confirmarem até 10/11.
 
 Alternativas registradas em 2024: Cenfor/Seduc-AL, Centro de Inovação do Jaraguá e Auditório Oscar Sátyro (IFAL Campus Maceió).
