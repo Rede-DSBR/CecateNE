@@ -10,7 +10,7 @@ Esta etapa trata do **levantamento e dos pedidos de reserva dos locais**. Os loc
 |---|---|---|---|---|---|---|---|---|
 | Maceió, AL (#602) | 01/12/2026 (ter) | 250 | Auditório do Sebrae/AL; Sinteal | UFAL (Reitoria/Proex) | A confirmar (Sebrae/AL e Sinteal) | Ofícios prontos; envio até 06/11 | 13/11 | Em negociação |
 | Itabaiana, SE (#603) | 03/12/2026 (qui) | 200 | Auditório Maria Thetis Nunes – UFS, Campus Prof. Alberto Carvalho | — | eventosita@academico.ufs.br (COADI/DIOPI) | Formulário + ofício enviados em 30/10; ajuste de público em 31/10 | 06/11 | Aguardando confirmação |
-| Irecê, BA (#604) | 04/12/2026 (sex) | 150 | Teatro Ataídes Ribeiro – CETI Profª Dária Dourado Lopes | A definir | escola.1126611@enova.educacao.ba.gov.br (Vice-Diretora Viviane da Gama Silva) | Ofício pronto; envio até 06/11 | 13/11 | A solicitar |
+| Irecê, BA (#604) | 04/12/2026 (sex) | 150 | Teatro Ataídes Ribeiro – CETI Profª Dária Dourado Lopes | A definir | escola.1126611@enova.educacao.ba.gov.br (Vice-Diretora Viviane da Gama Silva) | Ofício enviado em 31/10 (complemento sobre almoço em rascunho) | 13/11 | Aguardando resposta |
 
 ## 2. Formato dos encontros
 
@@ -67,7 +67,8 @@ Auditório Maria Thetis Nunes (500 lugares; mínimo de 80) – UFS, Campus Prof.
 
 - [x] Itabaiana: formulário e ofício enviados à UFS (30/10)
 - [x] Ofícios gerados para Sebrae/AL, Sinteal, UFAL (plano B) e CETI Dária Dourado Lopes (31/10)
-- [ ] Enviar os pedidos de Maceió (Sebrae/AL, Sinteal) e Irecê – até 06/11 (com consulta sobre almoço: restaurantes próximos ou refeição no local)
+- [x] Irecê: ofício enviado à Vice-Diretora Viviane da Gama Silva (31/10); complemento sobre o almoço em rascunho
+- [ ] Enviar os pedidos de Maceió (Sebrae/AL, Sinteal) – até 06/11 (com consulta sobre almoço: restaurantes próximos ou refeição no local)
 - [ ] Enviar à COADI o ajuste de público (200) e horário (até 16:00) – Itabaiana
 - [ ] Receber as respostas – até 13/11 (Itabaiana: até 06/11)
 - [ ] Acionar a UFAL se Maceió não tiver local até 10/11
