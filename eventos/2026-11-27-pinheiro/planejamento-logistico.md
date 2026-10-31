@@ -196,14 +196,27 @@ Do lado de São Luís (aeroporto, hotel e terminal), táxi ou aplicativo, com re
 
 ## 11. Alimentação (novo pedido no Portal do Coordenador)
 
-O processo anterior, 2026017816, foi cancelado. Os serviços são para 27/11, no CCPi, para cerca de 100 participantes. Proposta de referência: Mundo dos Doces.
+> Mesma descrição da cotação anterior: Solicitação de Compras Fapex nº 2026007617 / protocolo 2026017817 (mesmo modelo do processo 2026017816, Pinheiro, 16/07/2026). Proposta de referência: Mundo dos Doces (atualizar).
 
-| Item | Horário | Descrição mínima |
+**FORNECIMENTO DE ALIMENTAÇÃO – Quantidade: 100 UN**
+
+Fornecimento de alimentação para o encontro de formação do transporte escolar em Pinheiro, Maranhão, 27/11/2026. Universidade Federal do Maranhão (UFMA) – Campus de Pinheiro, Centro de Ciências de Pinheiro (CCPi), localizado na Rua Nelma Mitoso, Km 10, Enseada, CEP: 65.200-000, Pinheiro – MA.
+
+| Serviço | Horário | Descrição (texto da solicitação) |
 |---|---|---|
-| Café da manhã | 07:30 – 08:00 | Café, leite, sucos, água, pães, bolos, frutas e salgados assados |
-| Lanche rápido | 10:15 – 10:30 | Café, água, suco e salgados ou doces individuais (no mesmo horário da foto oficial) |
-| Almoço | 13:00 – 13:30 | Refeição completa com opção vegetariana, sobremesa, sucos e água, servida no local |
-| Água e café | 07:30 – 12:30 | Disponíveis no auditório e na Sala 01 |
+| Serviço 01 – Café da manhã | 07:15 – 09:00 | Serviço 01) 27/11/2026, 100 pessoas, Das 07:15 às 09:00: Mesa de desjejum durante a recepção e credenciamento, com o seguinte cardápio: 03 opções de pão sendo: pão recheado de frango com requeijão, sanduíche de queijo aberto, mini pão de queijo doce; acompanhado de patê de queijo, queijo em fatias e presunto em fatias; cuscuz amanteigado; ovos mexidos; 02 sabores de bolo, servidos fatiados, nas opções: bolo de milho e bolo mesclado; salada de frutas; bebidas: suco natural, em 02 sabores com as opções de cajá e acerola, e, café e leite ou achocolatado disponibilizados de forma a atender o fluxo eventual dos participantes. O desjejum será iniciado pontualmente às 07:30. |
+| Serviço 02 – Almoço | 13:00 – 14:00 | Serviço 02) 27/11/2026, 100 pessoas, Das 13:00 às 14:00: Almoço com Buffet Livre com: saladas diversas, arroz, feijão em caldo ou farofa, massas, aipim/macaxeira, abobora, purê de batatas, batata frita, farofa de ovo, de banana da terra; com 02 tipos de Proteína sendo: carne vermelha e peixe ou carne vermelha e frango; com Bebidas: sendo suco natural, ou água ou refrigerante, disponibilizados de forma atender o fluxo eventual dos participantes. Será disponibilizada mesa com café com opções de açúcar ou adoçante. O almoço será iniciado pontualmente às 13:00. |
+| Serviço 03 (acréscimo) – Lanche rápido de intervalo | 10:15 – 10:30 | Serviço 03) 27/11/2026, 100 pessoas, Das 10:15 às 10:30: Lanche rápido de intervalo, com salgados e doces individuais de servimento rápido; bebidas: suco natural, água e café, disponibilizados de forma a atender o fluxo eventual dos participantes, montado próximo ao local da foto oficial. O lanche será iniciado pontualmente às 10:15. (Acréscimo em relação à cotação anterior, que previa apenas desjejum e almoço.) |
+
+- Observação 01: O atraso no cumprimento do horário para o início de quaisquer serviços contratados resultará na aplicação de uma multa equivalente a 10% do valor total da contratação.
+- Observação 02: O fornecimento de quantidade inferior ao estabelecido resultará na aplicação de uma multa equivalente a 15% do valor total contratado para os serviços.
+- Observação 03: O fornecedor deverá apresentar o valor total para a execução dos serviços.
+- Observação 04: Para todos os serviços que envolvam alimentação, a empresa contratada será responsável pelo fornecimento de pessoal de apoio uniformizado e dos materiais necessários, incluindo copos, talheres, guardanapos e pratos descartáveis, toalhas de mesa e bandejas e móveis. Além disso, deverão ser disponibilizados recipientes com álcool para os convidados, bem como medidas de proteção dos alimentos.
+- Observação 05: O orçamento deve incluir todos os custos relacionados ao fornecimento e à entrega dos alimentos e bebidas, considerando as quantidades necessárias para atender adequadamente ao público estimado e duração do evento.
+- Observação 06: As quantidades de alimentos e bebidas deverão ser ajustadas conforme o número estimado de participantes de cada programação, garantindo uma oferta suficiente e variada para todos os presentes.
+- Observação 07: O cardápio sugerido serve como referência e poderá ser adaptado em acordo com a equipe de Assessoria Técnica da Coordenação do projeto, considerando as especificidades e preferências regionais de cada localidade.
+
+A programação do encontro termina às 13:30. A equipe do voo sai do CCPi às 13:30, logo depois do almoço.
 
 ## 12. Audiovisual (FMF Comunicação)
 
